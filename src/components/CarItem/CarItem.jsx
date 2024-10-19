@@ -26,7 +26,7 @@ const CarItem = ({ id, name, price, description, image }) => {
           <p>{name}</p>
         </div>
         <p className="car-item-desc">{description}</p>
-        <p className="car-item-price">Rs:{price}</p>
+        <p className="car-item-price">₹: {price}</p>
       </div>
     </div>
   );

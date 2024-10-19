@@ -228,236 +228,234 @@ export const food_list = [
         _id: "3",
         name: "Golden Halo",
         image: ring_3,
-        price: “8% wastage & Rs.200 p/g”,
-  
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "4",
         name: "Sunbeam Ring",
         image: ring_4,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "5",
         name: "Pure Glow",
         image: ring_35,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "6",
         name: "Radiant Band",
         image: ring_34,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "7",
         name: "Eternal Shine",
         image: ring_33,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "8",
         name: "Golden Blossom",
         image: ring_32,
- price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "9",
         name: "Luxe Loop",
         image: ring_31,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "10",
         name: "Aurora Band",
         image: ring_30,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "11",
         name: "Dazzle Circle",
         image: ring_29,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "12",
         name: "Golden Promise",
         image: ring_28,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "13",
         name: "Glimmer Band",
         image: ring_27,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "14",
         name: "Sunrise Ring",
         image: ring_26,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "15",
         name: "Golden Arc",
         image: ring_25,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "16",
         name: "Shimmer Loop",
         image: ring_24,
-        price:“8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "17",
-        name: “Solis Circle”,
+        name: "Solis Circle",
         image: ring_23,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "18",
         name: "Luminous Twist",
         image: ring_22,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "19",
         name: "Golden Crest",
         image: ring_21,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "20",
         name: "Amber Glow",
         image: ring_20,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "21",
         name: "Gilded Horizon",
         image: ring_19,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "22",
         name: "Solar Band",
         image: ring_18,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "23",
         name: "Eternal Gleam",
         image: ring_17,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "24",
         name: "Golden Wave",
         image: ring_16,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "25",
         name: "Serene Shine",
         image: ring_15,
-        price: “8% wastage & Rs.200 p/g”,,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "26",
         name: "Luxe Glow",
         image: ring_14,
-        price: 22,
+        price: 22,  // This one seems to have a different format, if it's correct leave it as is
         category: "Ring"
     },
     {
         _id: "27",
         name: "Gold Aura",
         image: ring_13,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "28",
         name: "Radiance Circle",
         image: ring_12,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "29",
         name: "Gilded Charm",
         image: ring_11,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "30",
         name: "Celestial Band",
         image: ring_10,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "31",
         name: "Golden Spark",
         image: ring_9,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "32",
         name: "Horizon Band",
         image: ring_8,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "33",
         name: "Glint Loop",
         image: ring_7,
-        price: “8% wastage & Rs.200 p/g”,
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "34",
         name: "Solstice Ring",
         image: ring_6,
-        price: “8% wastage & Rs.200 p/g”,
-        
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
     {
         _id: "35",
         name: "Celestial Glow",
         image: ring_5,
-        price: “8% wastage & Rs.200 p/g”,
-       
+        price: "8% wastage & Rs.200 p/g",
         category: "Ring"
     },
+
     {
         _id: "36",
         name: "Lasagna Rolls",

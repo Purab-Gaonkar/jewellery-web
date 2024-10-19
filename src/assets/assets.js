@@ -662,7 +662,7 @@ export const food_list = [
     },
     {
         _id: "63",
-        name: "Golden Glow Chain”,
+        name: "Golden Glow Chain",
         image: chain_1,
         price: 24,
         category: "Chain"

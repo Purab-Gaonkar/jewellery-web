@@ -444,7 +444,7 @@ export const food_list = [
     },
     {
         _id: "34",
-        name: "Solstice Ring“,
+        name: "Solstice Ring",
         image: ring_6,
         price: “8% wastage & Rs.200 p/g”,
         

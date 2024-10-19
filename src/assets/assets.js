@@ -226,266 +226,236 @@ export const food_list = [
     // },
     {
         _id: "3",
-        name: "Clover Salad",
+        name: "Golden Halo",
         image: ring_3,
-        price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
+  
         category: "Ring"
     },
     {
         _id: "4",
-        name: "Chicken Salad",
+        name: "Sunbeam Ring",
         image: ring_4,
-        price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "5",
-        name: "Greek salad",
+        name: "Pure Glow",
         image: ring_35,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "6",
-        name: "Veg salad",
+        name: "Radiant Band",
         image: ring_34,
-        price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "7",
-        name: "Clover Salad",
+        name: "Eternal Shine",
         image: ring_33,
-        price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "8",
-        name: "Chicken Salad",
+        name: "Golden Blossom",
         image: ring_32,
-        price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+ price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "9",
-        name: "Lasagna Rolls",
+        name: "Luxe Loop",
         image: ring_31,
-        price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "10",
-        name: "Peri Peri Rolls",
+        name: "Aurora Band",
         image: ring_30,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "11",
-        name: "Chicken Rolls",
+        name: "Dazzle Circle",
         image: ring_29,
-        price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "12",
-        name: "Veg Rolls",
+        name: "Golden Promise",
         image: ring_28,
-        price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "13",
-        name: "Ring",
+        name: "Glimmer Band",
         image: ring_27,
-        price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "14",
-        name: "Fruit Ice Cream",
+        name: "Sunrise Ring",
         image: ring_26,
-        price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "15",
-        name: "Jar Ice Cream",
+        name: "Golden Arc",
         image: ring_25,
-        price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "16",
-        name: "Vanilla Ice Cream",
+        name: "Shimmer Loop",
         image: ring_24,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price:“8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "17",
-        name: "Chicken Sandwich",
+        name: “Solis Circle”,
         image: ring_23,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "18",
-        name: "Vegan Sandwich",
+        name: "Luminous Twist",
         image: ring_22,
-        price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "19",
-        name: "Grilled Sandwich",
+        name: "Golden Crest",
         image: ring_21,
-        price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "20",
-        name: "Bread Sandwich",
+        name: "Amber Glow",
         image: ring_20,
-        price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "21",
-        name: "Cup Cake",
+        name: "Gilded Horizon",
         image: ring_19,
-        price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "22",
-        name: "Vegan Cake",
+        name: "Solar Band",
         image: ring_18,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "23",
-        name: "Butterscotch Cake",
+        name: "Eternal Gleam",
         image: ring_17,
-        price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "24",
-        name: "Sliced Cake",
+        name: "Golden Wave",
         image: ring_16,
-        price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "25",
-        name: "Garlic Mushroom",
+        name: "Serene Shine",
         image: ring_15,
-        price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,,
         category: "Ring"
     },
     {
         _id: "26",
-        name: "Fried Cauliflower",
+        name: "Luxe Glow",
         image: ring_14,
         price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Ring"
     },
     {
         _id: "27",
-        name: "Mix Veg Pulao",
+        name: "Gold Aura",
         image: ring_13,
-        price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "28",
-        name: "Rice Zucchini",
+        name: "Radiance Circle",
         image: ring_12,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "29",
-        name: "Cheese Pasta",
+        name: "Gilded Charm",
         image: ring_11,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "30",
-        name: "Tomato Pasta",
+        name: "Celestial Band",
         image: ring_10,
-        price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "31",
-        name: "Creamy Pasta",
+        name: "Golden Spark",
         image: ring_9,
-        price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "32",
-        name: "Chicken Pasta",
+        name: "Horizon Band",
         image: ring_8,
-        price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "33",
-        name: "Buttter Noodles",
+        name: "Glint Loop",
         image: ring_7,
-        price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
         category: "Ring"
     },
     {
         _id: "34",
-        name: "Veg Noodles",
+        name: "Solstice Ring“,
         image: ring_6,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
+        
         category: "Ring"
     },
     {
         _id: "35",
-        name: "Somen Noodles",
+        name: "Celestial Glow",
         image: ring_5,
-        price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
+        price: “8% wastage & Rs.200 p/g”,
+       
         category: "Ring"
     },
     {
@@ -594,147 +564,130 @@ export const food_list = [
     },
     {
         _id: "49",
-        name: "Cup Cake",
+        name: "Eternal Glow",
         image: locate_1,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "50",
-        name: "Vegan Cake",
+        name: "Sunbeam Charm",
         image: locate_2,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "51",
-        name: "Butterscotch Cake",
+        name: "Shimmering Embrace",
         image: locate_3,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "52",
-        name: "Sliced Cake",
+        name: "Moonlit Treasure",
         image: locate_4,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "53",
-        name: "Garlic Mushroom",
+        name: "Pure Gold Whisper",
         image: locate_5,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "54",
-        name: "Fried Cauliflower",
+        name: "Timeless Glow",
         image: locate_6,
         price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "55",
-        name: "Mix Veg Pulao",
+        name: "Celestial Charm",
         image: locate_7,
         price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "56",
-        name: "Rice Zucchini",
+        name: "Golden Keepsake",
         image: locate_8,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "57",
-        name: "Cheese Pasta",
+        name: "Radiant Blossom",
         image: locate_9,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "58",
-        name: "Tomato Pasta",
+        name: "Sunshine Halo",
         image: locate_10,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "59",
-        name: "Creamy Pasta",
+        name: "Honeydrop Locket",
         image: locate_11,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "60",
-        name: "Chicken Pasta",
+        name: "Glimmering Bond",
         image: locate_12,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Locate"
     },
     {
         _id: "61",
-        name: "Chicken Pasta",
+        name: "Golden Grace",
         image: bracelet_1,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Bracelet"
     }
     ,
     {
         _id: "62",
-        name: "Chicken Pasta",
+        name: "Sunlit Twist",
         image: bracelet_2,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
+       
         category: "Bracelet"
     },
     {
         _id: "63",
-        name: "Chicken Pasta",
+        name: "Golden Glow Chain”,
         image: chain_1,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Chain"
     },
     {
         _id: "64",
-        name: "Chicken Pasta",
+        name: "Pure Aura Chain",
         image: chain_2,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Chain"
     },
     {
         _id: "65",
-        name: "Chicken Pasta",
+        name: "Glimmer Loop",
         image: chain_3,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Chain"
     },
     {
         _id: "66",
-        name: "Chicken Pasta",
+        name: "Luxe Line Chain",
         image: chain_4,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
         category: "Chain"
     },
     // {

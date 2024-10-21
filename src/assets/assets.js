@@ -492,7 +492,7 @@ export const food_list = [
     _id: "36",
     name: "Golden Embrace",
     image: necklace_1,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A stunning necklace with an intricate golden design, perfect for special occasions.",
     category: "Necklace"
 },
@@ -500,7 +500,7 @@ export const food_list = [
     _id: "37",
     name: "Radiant Charm",
     image: necklace_2,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A graceful piece that radiates elegance with every shimmer.",
     category: "Necklace"
 },
@@ -508,7 +508,7 @@ export const food_list = [
     _id: "38",
     name: "Eternal Gleam",
     image: necklace_3,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "This necklace captures the essence of eternal beauty, perfect for timeless moments.",
     category: "Necklace"
 },
@@ -516,7 +516,7 @@ export const food_list = [
     _id: 39,
     name: "Sunlit Grace",
     image: ring_4,
-    price: "8% wastage & Rs.700 p/g",
+    price: "8% wastage & Rs.200 p/g",
     description: "A brilliant gold necklace, capturing the warmth of the sun.",
     category: "Ring"
 },
@@ -524,7 +524,7 @@ export const food_list = [
     _id: 40,
     name: "Luminous Aura",
     image: necklace_5,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A necklace that glows with a luminous golden sheen, perfect for any occasion.",
     category: "Necklace"
 },
@@ -532,7 +532,7 @@ export const food_list = [
     _id: 41,
     name: "Gilded Harmony",
     image: necklace_6,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A harmonious blend of intricate gold design and elegance.",
     category: "Necklace"
 },
@@ -540,7 +540,7 @@ export const food_list = [
     _id: 42,
     name: "Shimmering Horizon",
     image: necklace_7,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A shimmering piece that reflects the horizon in gold.",
     category: "Necklace"
 },
@@ -548,7 +548,7 @@ export const food_list = [
     _id: 43,
     name: "Pure Gold Elegance",
     image: necklace_8,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A statement of pure elegance, crafted in rich gold.",
     category: "Necklace"
 },
@@ -556,7 +556,7 @@ export const food_list = [
     _id: 44,
     name: "Golden Glow",
     image: necklace_9,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A shimmering necklace that radiates a golden glow, perfect for any occasion.",
     category: "Necklace"
 },
@@ -564,7 +564,7 @@ export const food_list = [
     _id: 45,
     name: "Timeless Radiance",
     image: necklace_10,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A timeless piece that captures radiance and elegance, ideal for special moments.",
     category: "Necklace"
 },
@@ -572,7 +572,7 @@ export const food_list = [
     _id: 46,
     name: "Grilled Sandwich",
     image: necklace_11,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A quirky design inspired by culinary delights, making it a unique fashion statement.",
     category: "Necklace"
 },
@@ -580,7 +580,7 @@ export const food_list = [
     _id: 47,
     name: "Bread Sandwich",
     image: necklace_12,
-    price: "8% wastage & Rs.700 p/g",
+    price: " Making charges Rs.700 p/g",
     description: "A playful and fun necklace inspired by a classic sandwich, perfect for casual wear.",
     category: "Necklace"
 },
@@ -588,7 +588,7 @@ export const food_list = [
     _id: 48,
     name: "Bread Sandwich",
     image: necklace_13,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "Another whimsical take on the classic sandwich, adding a touch of humor to your outfit.",
     category: "Necklace"
 },
@@ -596,7 +596,7 @@ export const food_list = [
     _id: 49,
     name: "Eternal Glow",
     image: locate_1,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A charm that captures the essence of eternal glow, perfect for adding sparkle to your look.",
     category: "Locate"
 },
@@ -604,7 +604,7 @@ export const food_list = [
     _id: 50,
     name: "Sunbeam Charm",
     image: locate_2,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A delightful charm inspired by sunbeams, bringing brightness to your accessories.",
     category: "Locate"
 },
@@ -612,7 +612,7 @@ export const food_list = [
     _id: 51,
     name: "Shimmering Embrace",
     image: locate_3,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A charming piece that envelops you in a shimmering embrace, ideal for special occasions.",
     category: "Locate"
 },
@@ -620,7 +620,7 @@ export const food_list = [
     _id: 52,
     name: "Moonlit Treasure",
     image: locate_4,
-    price: "8% wastage & Rs.700 p/g",
+    price: " Making charges Rs.700 p/g",
     description: "A treasure inspired by the moonlight, adding a touch of magic to your collection.",
     category: "Locate"
 },
@@ -628,7 +628,7 @@ export const food_list = [
     _id: 53,
     name: "Pure Gold Whisper",
     image: locate_5,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A delicate charm that whispers elegance and purity, perfect for everyday wear.",
     category: "Locate"
 },
@@ -636,7 +636,7 @@ export const food_list = [
     _id: 54,
     name: "Timeless Glow",
     image: locate_6,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A timeless piece that shines with a soft glow, making it a classic choice.",
     category: "Locate"
 },
@@ -644,7 +644,7 @@ export const food_list = [
     _id: 55,
     name: "Celestial Charm",
     image: locate_7,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A celestial-inspired charm that brings a touch of the universe to your jewelry collection.",
     category: "Locate"
 },
@@ -652,7 +652,7 @@ export const food_list = [
     _id: 56,
     name: "Golden Keepsake",
     image: locate_8,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A beautiful keepsake charm in gold, perfect for cherishing special memories.",
     category: "Locate"
 },
@@ -660,7 +660,7 @@ export const food_list = [
     _id: 57,
     name: "Radiant Blossom",
     image: locate_9,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A radiant charm resembling a blooming flower, symbolizing beauty and growth.",
     category: "Locate"
 },
@@ -668,7 +668,7 @@ export const food_list = [
     _id: 58,
     name: "Sunshine Halo",
     image: locate_10,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A halo charm that radiates sunshine, perfect for adding warmth to your look.",
     category: "Locate"
 },
@@ -676,7 +676,7 @@ export const food_list = [
     _id: 59,
     name: "Honeydrop Locket",
     image: locate_11,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A sweet locket inspired by honeydrops, perfect for keeping cherished memories close.",
     category: "Locate"
 },
@@ -684,7 +684,7 @@ export const food_list = [
     _id: 60,
     name: "Glimmering Bond",
     image: locate_12,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A charm that represents a glimmering bond, ideal for celebrating special connections.",
     category: "Locate"
 },
@@ -692,7 +692,7 @@ export const food_list = [
     _id: 61,
     name: "Golden Grace",
     image: bracelet_1,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A graceful bracelet in gold, adding a touch of elegance to any outfit.",
     category: "Bracelet"
 },
@@ -700,7 +700,7 @@ export const food_list = [
     _id: 62,
     name: "Sunlit Twist",
     image: bracelet_2,
-    price: "8% wastage & Rs.700 p/g",
+    price: " Making charges Rs.700 p/g",
     description: "A twisted design that captures the essence of sunlight, perfect for a casual look.",
     category: "Bracelet"
 },
@@ -708,7 +708,7 @@ export const food_list = [
     _id: 63,
     name: "Golden Glow Chain",
     image: chain_1,
-    price: "8% wastage & Rs.700 p/g",
+    price: " Rs.700 p/g",
     description: "A chain that radiates a golden glow, ideal for layering or wearing alone.",
     category: "Chain"
 },
@@ -716,7 +716,7 @@ export const food_list = [
     _id: 64,
     name: "Pure Aura Chain",
     image: chain_2,
-    price: "8% wastage & Rs.700 p/g",
+    price: "Making charges Rs.700 p/g",
     description: "A chain that embodies purity and elegance, perfect for adding charm to your outfits.",
     category: "Chain"
 },
@@ -724,7 +724,7 @@ export const food_list = [
     _id: 65,
     name: "Glimmer Loop",
     image: chain_3,
-    price: "8% wastage & Rs.700 p/g",
+    price: " Making charges Rs.700 p/g",
     description: "A looped chain design that glimmers beautifully, perfect for everyday wear.",
     category: "Chain"
 },
@@ -732,7 +732,7 @@ export const food_list = [
     _id: 66,
     name: "Luxe Line Chain",
     image: chain_4,
-    price: "8% wastage & Rs.700 p/g",
+    price: " Making charges Rs.700 p/g",
     description: "A luxurious line chain that adds sophistication to any look.",
     category: "Chain"
 },

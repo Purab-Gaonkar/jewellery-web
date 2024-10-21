@@ -518,7 +518,7 @@ export const food_list = [
     image: ring_4,
     price: "8% wastage & Rs.700 p/g",
     description: "A brilliant gold necklace, capturing the warmth of the sun.",
-    category: "Necklace"
+    category: "Ring"
 },
 {
     _id: 40,

@@ -227,7 +227,7 @@ export const food_list = [
     {
     _id: "3",
     name: "Golden Halo",
-    image: "ring_3",
+    image: "ring_1",
     price: "8% wastage & Rs.200 p/g",
     description: "A ring that embodies the beauty of a golden halo, perfect for special moments.",
     category: "Ring"
@@ -235,7 +235,7 @@ export const food_list = [
 {
     _id: "4",
     name: "Sunbeam Ring",
-    image: "ring_4",
+    image: "ring_2",
     price: "8% wastage & Rs.200 p/g",
     description: "A radiant ring that captures the essence of sunbeams, shining bright.",
     category: "Ring"
@@ -243,7 +243,7 @@ export const food_list = [
 {
     _id: "5",
     name: "Pure Glow",
-    image: "ring_35",
+    image: "ring_3",
     price: "8% wastage & Rs.200 p/g",
     description: "This ring shines with a pure glow, symbolizing clarity and elegance.",
     category: "Ring"
@@ -251,7 +251,7 @@ export const food_list = [
 {
     _id: "6",
     name: "Radiant Band",
-    image: "ring_34",
+    image: "ring_4",
     price: "8% wastage & Rs.200 p/g",
     description: "A stunning band that radiates with brilliance, perfect for everyday wear.",
     category: "Ring"
@@ -259,7 +259,7 @@ export const food_list = [
 {
     _id: "7",
     name: "Eternal Shine",
-    image: "ring_33",
+    image: "ring_5",
     price: "8% wastage & Rs.200 p/g",
     description: "This ring reflects eternal shine, a timeless piece for any collection.",
     category: "Ring"
@@ -267,7 +267,7 @@ export const food_list = [
 {
     _id: "8",
     name: "Golden Blossom",
-    image: "ring_32",
+    image: "ring_6",
     price: "8% wastage & Rs.200 p/g",
     description: "A delicately crafted ring resembling a blossoming flower, symbolizing beauty.",
     category: "Ring"
@@ -275,7 +275,7 @@ export const food_list = [
 {
     _id: "9",
     name: "Luxe Loop",
-    image: "ring_31",
+    image: "ring_7",
     price: "8% wastage & Rs.200 p/g",
     description: "An elegant loop design that represents luxury and style.",
     category: "Ring"
@@ -283,7 +283,7 @@ export const food_list = [
 {
     _id: "10",
     name: "Aurora Band",
-    image: "ring_30",
+    image: "ring_8",
     price: "8% wastage & Rs.200 p/g",
     description: "Inspired by the beauty of the aurora, this band shines with enchanting colors.",
     category: "Ring"

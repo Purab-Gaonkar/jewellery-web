@@ -225,469 +225,518 @@ export const food_list = [
     //     category: "Ring"
     // },
     {
-        _id: "3",
-        name: "Golden Halo",
-        image: ring_3,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "4",
-        name: "Sunbeam Ring",
-        image: ring_4,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "5",
-        name: "Pure Glow",
-        image: ring_35,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "6",
-        name: "Radiant Band",
-        image: ring_34,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "7",
-        name: "Eternal Shine",
-        image: ring_33,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "8",
-        name: "Golden Blossom",
-        image: ring_32,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "9",
-        name: "Luxe Loop",
-        image: ring_31,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "10",
-        name: "Aurora Band",
-        image: ring_30,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "11",
-        name: "Dazzle Circle",
-        image: ring_29,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "12",
-        name: "Golden Promise",
-        image: ring_28,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "13",
-        name: "Glimmer Band",
-        image: ring_27,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "14",
-        name: "Sunrise Ring",
-        image: ring_26,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "15",
-        name: "Golden Arc",
-        image: ring_25,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "16",
-        name: "Shimmer Loop",
-        image: ring_24,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "17",
-        name: "Solis Circle",
-        image: ring_23,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "18",
-        name: "Luminous Twist",
-        image: ring_22,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "19",
-        name: "Golden Crest",
-        image: ring_21,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "20",
-        name: "Amber Glow",
-        image: ring_20,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "21",
-        name: "Gilded Horizon",
-        image: ring_19,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "22",
-        name: "Solar Band",
-        image: ring_18,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "23",
-        name: "Eternal Gleam",
-        image: ring_17,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "24",
-        name: "Golden Wave",
-        image: ring_16,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "25",
-        name: "Serene Shine",
-        image: ring_15,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "26",
-        name: "Luxe Glow",
-        image: ring_14,
-        price: 22,  // This one seems to have a different format, if it's correct leave it as is
-        category: "Ring"
-    },
-    {
-        _id: "27",
-        name: "Gold Aura",
-        image: ring_13,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "28",
-        name: "Radiance Circle",
-        image: ring_12,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "29",
-        name: "Gilded Charm",
-        image: ring_11,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "30",
-        name: "Celestial Band",
-        image: ring_10,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "31",
-        name: "Golden Spark",
-        image: ring_9,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "32",
-        name: "Horizon Band",
-        image: ring_8,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "33",
-        name: "Glint Loop",
-        image: ring_7,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "34",
-        name: "Solstice Ring",
-        image: ring_6,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
-    {
-        _id: "35",
-        name: "Celestial Glow",
-        image: ring_5,
-        price: "8% wastage & Rs.200 p/g",
-        category: "Ring"
-    },
+    _id: "3",
+    name: "Golden Halo",
+    image: "ring_3",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A ring that embodies the beauty of a golden halo, perfect for special moments.",
+    category: "Ring"
+},
+{
+    _id: "4",
+    name: "Sunbeam Ring",
+    image: "ring_4",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A radiant ring that captures the essence of sunbeams, shining bright.",
+    category: "Ring"
+},
+{
+    _id: "5",
+    name: "Pure Glow",
+    image: "ring_35",
+    price: "8% wastage & Rs.200 p/g",
+    description: "This ring shines with a pure glow, symbolizing clarity and elegance.",
+    category: "Ring"
+},
+{
+    _id: "6",
+    name: "Radiant Band",
+    image: "ring_34",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A stunning band that radiates with brilliance, perfect for everyday wear.",
+    category: "Ring"
+},
+{
+    _id: "7",
+    name: "Eternal Shine",
+    image: "ring_33",
+    price: "8% wastage & Rs.200 p/g",
+    description: "This ring reflects eternal shine, a timeless piece for any collection.",
+    category: "Ring"
+},
+{
+    _id: "8",
+    name: "Golden Blossom",
+    image: "ring_32",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A delicately crafted ring resembling a blossoming flower, symbolizing beauty.",
+    category: "Ring"
+},
+{
+    _id: "9",
+    name: "Luxe Loop",
+    image: "ring_31",
+    price: "8% wastage & Rs.200 p/g",
+    description: "An elegant loop design that represents luxury and style.",
+    category: "Ring"
+},
+{
+    _id: "10",
+    name: "Aurora Band",
+    image: "ring_30",
+    price: "8% wastage & Rs.200 p/g",
+    description: "Inspired by the beauty of the aurora, this band shines with enchanting colors.",
+    category: "Ring"
+},
+{
+    _id: "11",
+    name: "Dazzle Circle",
+    image: "ring_29",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A dazzling circular ring that captivates with its radiant shine.",
+    category: "Ring"
+},
+{
+    _id: "12",
+    name: "Golden Promise",
+    image: "ring_28",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A ring that symbolizes a golden promise, reflecting commitment and love.",
+    category: "Ring"
+},
+{
+    _id: "13",
+    name: "Glimmer Band",
+    image: "ring_27",
+    price: "8% wastage & Rs.200 p/g",
+    description: "This band glimmers with every move, perfect for making a statement.",
+    category: "Ring"
+},
+{
+    _id: "14",
+    name: "Sunrise Ring",
+    image: "ring_26",
+    price: "8% wastage & Rs.200 p/g",
+    description: "Inspired by the colors of a sunrise, this ring radiates warmth and beauty.",
+    category: "Ring"
+},
+{
+    _id: "15",
+    name: "Golden Arc",
+    image: "ring_25",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A striking arc design in gold, symbolizing strength and elegance.",
+    category: "Ring"
+},
+{
+    _id: "16",
+    name: "Shimmer Loop",
+    image: "ring_24",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A loop design that shimmers beautifully, perfect for any occasion.",
+    category: "Ring"
+},
+{
+    _id: "17",
+    name: "Solis Circle",
+    image: "ring_23",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A ring representing the sun, embodying warmth and positivity.",
+    category: "Ring"
+},
+{
+    _id: "18",
+    name: "Luminous Twist",
+    image: "ring_22",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A twisted design that catches light and attention, exuding elegance.",
+    category: "Ring"
+},
+{
+    _id: "19",
+    name: "Golden Crest",
+    image: "ring_21",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A regal crest design that embodies elegance and sophistication.",
+    category: "Ring"
+},
+{
+    _id: "20",
+    name: "Amber Glow",
+    image: "ring_20",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A ring with a warm amber glow, symbolizing warmth and charm.",
+    category: "Ring"
+},
+{
+    _id: "21",
+    name: "Gilded Horizon",
+    image: "ring_19",
+    price: "8% wastage & Rs.200 p/g",
+    description: "This ring captures the beauty of the horizon in gilded gold.",
+    category: "Ring"
+},
+{
+    _id: "22",
+    name: "Solar Band",
+    image: "ring_18",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A band inspired by the sun, radiating energy and warmth.",
+    category: "Ring"
+},
+{
+    _id: "23",
+    name: "Eternal Gleam",
+    image: "ring_17",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A gleaming ring that symbolizes eternity, perfect for everlasting love.",
+    category: "Ring"
+},
+{
+    _id: "24",
+    name: "Golden Wave",
+    image: "ring_16",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A wave-inspired ring that flows gracefully with your hand.",
+    category: "Ring"
+},
+{
+    _id: "25",
+    name: "Serene Shine",
+    image: "ring_15",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A serene ring that shines softly, perfect for daily wear.",
+    category: "Ring"
+},
+{
+    _id: "26",
+    name: "Luxe Glow",
+    image: "ring_14",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A luxurious glow emanates from this elegantly designed ring.",
+    category: "Ring"
+},
+{
+    _id: "27",
+    name: "Gold Aura",
+    image: "ring_13",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A ring that captures the aura of gold, radiating elegance.",
+    category: "Ring"
+},
+{
+    _id: "28",
+    name: "Radiance Circle",
+    image: "ring_12",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A circle of radiance that adds a touch of sophistication to your look.",
+    category: "Ring"
+},
+{
+    _id: "29",
+    name: "Gilded Charm",
+    image: "ring_11",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A charming ring that combines elegance and whimsy.",
+    category: "Ring"
+},
+{
+    _id: "30",
+    name: "Celestial Band",
+    image: "ring_10",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A celestial design that connects you to the stars.",
+    category: "Ring"
+},
+{
+    _id: "31",
+    name: "Golden Spark",
+    image: "ring_9",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A ring that sparks joy and adds brilliance to any outfit.",
+    category: "Ring"
+},
+{
+    _id: "32",
+    name: "Horizon Band",
+    image: "ring_8",
+    price: "8% wastage & Rs.200 p/g",
+    description: "This band captures the beauty of the horizon in its design.",
+    category: "Ring"
+},
+{
+    _id: "33",
+    name: "Glint Loop",
+    image: "ring_7",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A loop design that glints in the light, adding a playful touch.",
+    category: "Ring"
+},
+{
+    _id: "34",
+    name: "Solstice Ring",
+    image: "ring_6",
+    price: "8% wastage & Rs.200 p/g",
+    description: "Inspired by the solstice, this ring captures seasonal beauty.",
+    category: "Ring"
+},
+{
+    _id: "35",
+    name: "Celestial Glow",
+    image: "ring_5",
+    price: "8% wastage & Rs.200 p/g",
+    description: "A glowing ring that embodies the celestial wonders of the universe.",
+    category: "Ring"
+},
+{
+    _id: "36",
+    name: "Golden Embrace",
+    image: "necklace_1",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A stunning necklace with an intricate golden design, perfect for special occasions.",
+    category: "Necklace"
+},
+{
+    _id: "37",
+    name: "Radiant Charm",
+    image: "necklace_2",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A graceful piece that radiates elegance with every shimmer.",
+    category: "Necklace"
+},
+{
+    _id: "38",
+    name: "Eternal Gleam",
+    image: "necklace_3",
+    price: "8% wastage & Rs.700 p/g",
+    description: "This necklace captures the essence of eternal beauty, perfect for timeless moments.",
+    category: "Necklace"
+},
+{
+    _id: "39",
+    name: "Sunlit Grace",
+    image: "necklace_4",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A brilliant gold necklace, capturing the warmth of the sun.",
+    category: "Necklace"
+},
+{
+    _id: "40",
+    name: "Luminous Aura",
+    image: "necklace_5",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A necklace that glows with a luminous golden sheen, perfect for any occasion.",
+    category: "Necklace"
+},
+{
+    _id: "41",
+    name: "Gilded Harmony",
+    image: "necklace_6",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A harmonious blend of intricate gold design and elegance.",
+    category: "Necklace"
+},
+{
+    _id: "42",
+    name: "Shimmering Horizon",
+    image: "necklace_7",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A shimmering piece that reflects the horizon in gold.",
+    category: "Necklace"
+},
+{
+    _id: "43",
+    name: "Pure Gold Elegance",
+    image: "necklace_8",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A statement of pure elegance, crafted in rich gold.",
+    category: "Necklace"
+},
+{
+    _id: "44",
+    name: "Golden Glow",
+    image: "necklace_9",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A shimmering necklace that radiates a golden glow, perfect for any occasion.",
+    category: "Necklace"
+},
+{
+    _id: "45",
+    name: "Timeless Radiance",
+    image: "necklace_10",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A timeless piece that captures radiance and elegance, ideal for special moments.",
+    category: "Necklace"
+},
+{
+    _id: "46",
+    name: "Grilled Sandwich",
+    image: "necklace_11",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A quirky design inspired by culinary delights, making it a unique fashion statement.",
+    category: "Necklace"
+},
+{
+    _id: "47",
+    name: "Bread Sandwich",
+    image: "necklace_12",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A playful and fun necklace inspired by a classic sandwich, perfect for casual wear.",
+    category: "Necklace"
+},
+{
+    _id: "48",
+    name: "Bread Sandwich",
+    image: "necklace_13",
+    price: "8% wastage & Rs.700 p/g",
+    description: "Another whimsical take on the classic sandwich, adding a touch of humor to your outfit.",
+    category: "Necklace"
+},
+{
+    _id: "49",
+    name: "Eternal Glow",
+    image: "locate_1",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A charm that captures the essence of eternal glow, perfect for adding sparkle to your look.",
+    category: "Locate"
+},
+{
+    _id: "50",
+    name: "Sunbeam Charm",
+    image: "locate_2",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A delightful charm inspired by sunbeams, bringing brightness to your accessories.",
+    category: "Locate"
+},
+{
+    _id: "51",
+    name: "Shimmering Embrace",
+    image: "locate_3",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A charming piece that envelops you in a shimmering embrace, ideal for special occasions.",
+    category: "Locate"
+},
+{
+    _id: "52",
+    name: "Moonlit Treasure",
+    image: "locate_4",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A treasure inspired by the moonlight, adding a touch of magic to your collection.",
+    category: "Locate"
+},
+{
+    _id: "53",
+    name: "Pure Gold Whisper",
+    image: "locate_5",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A delicate charm that whispers elegance and purity, perfect for everyday wear.",
+    category: "Locate"
+},
+{
+    _id: "54",
+    name: "Timeless Glow",
+    image: "locate_6",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A timeless piece that shines with a soft glow, making it a classic choice.",
+    category: "Locate"
+},
+{
+    _id: "55",
+    name: "Celestial Charm",
+    image: "locate_7",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A celestial-inspired charm that brings a touch of the universe to your jewelry collection.",
+    category: "Locate"
+},
+{
+    _id: "56",
+    name: "Golden Keepsake",
+    image: "locate_8",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A beautiful keepsake charm in gold, perfect for cherishing special memories.",
+    category: "Locate"
+},
+{
+    _id: "57",
+    name: "Radiant Blossom",
+    image: "locate_9",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A radiant charm resembling a blooming flower, symbolizing beauty and growth.",
+    category: "Locate"
+},
+{
+    _id: "58",
+    name: "Sunshine Halo",
+    image: "locate_10",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A halo charm that radiates sunshine, perfect for adding warmth to your look.",
+    category: "Locate"
+},
+{
+    _id: "59",
+    name: "Honeydrop Locket",
+    image: "locate_11",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A sweet locket inspired by honeydrops, perfect for keeping cherished memories close.",
+    category: "Locate"
+},
+{
+    _id: "60",
+    name: "Glimmering Bond",
+    image: "locate_12",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A charm that represents a glimmering bond, ideal for celebrating special connections.",
+    category: "Locate"
+},
+{
+    _id: "61",
+    name: "Golden Grace",
+    image: "bracelet_1",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A graceful bracelet in gold, adding a touch of elegance to any outfit.",
+    category: "Bracelet"
+},
+{
+    _id: "62",
+    name: "Sunlit Twist",
+    image: "bracelet_2",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A twisted design that captures the essence of sunlight, perfect for a casual look.",
+    category: "Bracelet"
+},
+{
+    _id: "63",
+    name: "Golden Glow Chain",
+    image: "chain_1",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A chain that radiates a golden glow, ideal for layering or wearing alone.",
+    category: "Chain"
+},
+{
+    _id: "64",
+    name: "Pure Aura Chain",
+    image: "chain_2",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A chain that embodies purity and elegance, perfect for adding charm to your outfits.",
+    category: "Chain"
+},
+{
+    _id: "65",
+    name: "Glimmer Loop",
+    image: "chain_3",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A looped chain design that glimmers beautifully, perfect for everyday wear.",
+    category: "Chain"
+},
+{
+    _id: "66",
+    name: "Luxe Line Chain",
+    image: "chain_4",
+    price: "8% wastage & Rs.700 p/g",
+    description: "A luxurious line chain that adds sophistication to any look.",
+    category: "Chain"
+},
 
-    {
-        _id: "36",
-        name: "Lasagna Rolls",
-        image: necklace_1,
-        price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "37",
-        name: "Peri Peri Rolls",
-        image: necklace_2,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "38",
-        name: "Chicken Rolls",
-        image: necklace_3,
-        price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "39",
-        name: "Veg Rolls",
-        image: necklace_4,
-        price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "40",
-        name: "Ripple Ice Cream",
-        image: necklace_5,
-        price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "41",
-        name: "Fruit Ice Cream",
-        image: necklace_6,
-        price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "42",
-        name: "Jar Ice Cream",
-        image: necklace_7,
-        price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "43",
-        name: "Vanilla Ice Cream",
-        image: necklace_8,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "44",
-        name: "Chicken Sandwich",
-        image: necklace_9,
-        price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "45",
-        name: "Vegan Sandwich",
-        image: necklace_10,
-        price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "46",
-        name: "Grilled Sandwich",
-        image: necklace_11,
-        price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "47",
-        name: "Bread Sandwich",
-        image: necklace_12,
-        price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "48",
-        name: "Bread Sandwich",
-        image: necklace_13,
-        price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Necklace"
-    },
-    {
-        _id: "49",
-        name: "Eternal Glow",
-        image: locate_1,
-        price: 14,
-        category: "Locate"
-    },
-    {
-        _id: "50",
-        name: "Sunbeam Charm",
-        image: locate_2,
-        price: 12,
-        category: "Locate"
-    },
-    {
-        _id: "51",
-        name: "Shimmering Embrace",
-        image: locate_3,
-        price: 20,
-        category: "Locate"
-    },
-    {
-        _id: "52",
-        name: "Moonlit Treasure",
-        image: locate_4,
-        price: 15,
-        category: "Locate"
-    },
-    {
-        _id: "53",
-        name: "Pure Gold Whisper",
-        image: locate_5,
-        price: 14,
-        category: "Locate"
-    },
-    {
-        _id: "54",
-        name: "Timeless Glow",
-        image: locate_6,
-        price: 22,
-        category: "Locate"
-    },
-    {
-        _id: "55",
-        name: "Celestial Charm",
-        image: locate_7,
-        price: 10,
-        category: "Locate"
-    },
-    {
-        _id: "56",
-        name: "Golden Keepsake",
-        image: locate_8,
-        price: 12,
-        category: "Locate"
-    },
-    {
-        _id: "57",
-        name: "Radiant Blossom",
-        image: locate_9,
-        price: 12,
-        category: "Locate"
-    },
-    {
-        _id: "58",
-        name: "Sunshine Halo",
-        image: locate_10,
-        price: 18,
-        category: "Locate"
-    },
-    {
-        _id: "59",
-        name: "Honeydrop Locket",
-        image: locate_11,
-        price: 16,
-        category: "Locate"
-    },
-    {
-        _id: "60",
-        name: "Glimmering Bond",
-        image: locate_12,
-        price: 24,
-        category: "Locate"
-    },
-    {
-        _id: "61",
-        name: "Golden Grace",
-        image: bracelet_1,
-        price: 24,
-        category: "Bracelet"
-    }
-    ,
-    {
-        _id: "62",
-        name: "Sunlit Twist",
-        image: bracelet_2,
-        price: 24,
-       
-        category: "Bracelet"
-    },
-    {
-        _id: "63",
-        name: "Golden Glow Chain",
-        image: chain_1,
-        price: 24,
-        category: "Chain"
-    },
-    {
-        _id: "64",
-        name: "Pure Aura Chain",
-        image: chain_2,
-        price: 24,
-        category: "Chain"
-    },
-    {
-        _id: "65",
-        name: "Glimmer Loop",
-        image: chain_3,
-        price: 24,
-        category: "Chain"
-    },
-    {
-        _id: "66",
-        name: "Luxe Line Chain",
-        image: chain_4,
-        price: 24,
-        category: "Chain"
-    },
     // {
     //     _id: "21",
     //     name: "Garlic Mushroom ",

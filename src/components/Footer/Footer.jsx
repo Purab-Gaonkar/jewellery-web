@@ -56,15 +56,15 @@ const Footer = () => {
           <ul>
             <li>Home</li>
             <li>About us</li>
-            <li>Delivery</li>
-            <li>Privacy policy</li>
+{/*             <li>Delivery</li>
+            <li>Privacy policy</li> */}
           </ul>
         </div>
         <div className="footer-content-right">
           <h2>Get in touch</h2>
           <ul>
-            <li>+1234567890</li>
-            <li>email@gmail.com</li>
+            <li>9096219091</li>
+            <li>shreyan@gmail.com</li>
           </ul>
         </div>
       </div>

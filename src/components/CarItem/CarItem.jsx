@@ -6,7 +6,7 @@ const CarItem = ({ id, name, price, description, image }) => {
   const ownerPhoneNumber = "9096219091"; // Replace with the actual phone number
 
   // Constructing the message with a link to the image
-  const message = `I'm interested in the car ${name} priced at $${price}. Here are the details: ${description}.`;
+  const message = `I'm interested in ${name} priced at ₹${price}. Here are the details: ${description}.`;
 
   // WhatsApp link with the pre-filled message
   const whatsappRedirect = `https://wa.me/${ownerPhoneNumber}?text=${encodeURIComponent(message)}`;
